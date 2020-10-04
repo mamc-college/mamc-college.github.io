@@ -25,11 +25,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-collections:
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-
 defaults:
   # Post defaults
   - scope:
@@ -58,12 +53,15 @@ author:
   links:
     - title: Mail
       url: mailto:www.mamc@gmail.com
-      icon: fad fa-at
+      icon: fas fa-at
+    - title: Facebook
+      url: https://www.facebook.com/Mirza-Abbas-Mohila-Degree-College-1979970975582543
+      icon: fab fa-facebook-square
 
 footer_links:
   - title: Feed
     url: atom.xml
-    icon: fad fa-rss-square
+    icon: fas fa-rss-square
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
