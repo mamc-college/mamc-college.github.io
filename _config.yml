@@ -8,12 +8,11 @@ url: https://mamc-college.github.io
 github_username:  mamc-admin
 
 markdown: kramdown
-remote_theme: "ahmubashshir/so-simple-theme@devel"
-skin: "/assets/css/skins/dark.css"
+remote_theme: mmistakes/so-simple-theme
+skin: /assets/css/skins/dark.css
 paginate: 10
-paginate_path: /:num/
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
+category_archive_path: /categories/#
+tag_archive_path: /tags/#
 search_full_content: false
 mathjax:
   enable: true
@@ -29,15 +28,6 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-defaults:
-  # Post defaults
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      comments: false
-      share: false
 
 feed:
   path: atom.xml
