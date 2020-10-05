@@ -1,5 +1,9 @@
 ---
 title: HSC Session 2020-2021 Orientation
+categories:
+  - HSC
+  - Orientation
+  - Notice
 ---
 
 [https://us04web.zoom.us/j/5255078880?pwd=R0FvdmJyUWRuaENJRlBLdVJockVqUT09](https://us04web.zoom.us/j/5255078880?pwd=R0FvdmJyUWRuaENJRlBLdVJockVqUT09)
