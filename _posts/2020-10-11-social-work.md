@@ -1,7 +1,7 @@
 ---
-title: "[Hons] Arts Routine [3rd, 4th, Preliminary(Master's)]"
+title: "[Hons] BSS(Hons.) Routine [3rd, 4th, Preliminary(Master's)]"
 categories:
-  - Hons
+  - Hons.
   - routine
   - Hons 3rd year
   - Hons 4th year
