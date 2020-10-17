@@ -42,7 +42,7 @@ liquid:
 
 google_fonts:
   - name: "Noto Sans"
-    weights: "400b,400b,700b,700b"
+    weights: "400,400b,700,700b"
 
 author:
   name: MAMC Admin
