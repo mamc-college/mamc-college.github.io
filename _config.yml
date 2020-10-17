@@ -9,7 +9,7 @@ github_username:  mamc-admin
 logo: /favicon.png
 permalink: /:categories/:year/:month/:day/:title
 markdown: kramdown
-theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
 skin: /assets/css/skins/dark.css
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
