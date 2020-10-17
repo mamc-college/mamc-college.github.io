@@ -9,7 +9,7 @@ github_username:  mamc-admin
 logo: /favicon.png
 permalink: /:categories/:year/:month/:day/:title
 markdown: kramdown
-remote_theme: mmistakes/so-simple-theme
+theme: jekyll-theme-so-simple
 skin: /assets/css/skins/dark.css
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
@@ -41,10 +41,8 @@ liquid:
   error_mode: strict
 
 google_fonts:
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
+  - name: "Noto Sans"
+    weights: "400b,400b,700b,700b"
 
 author:
   name: MAMC Admin
